@@ -1,5 +1,5 @@
 # Hourly-Load-forcasting-Time-Series-using-LSTM:
-To forecast the hourly load for the utility for a specific month on hourly basis
+To forecast the hourly load for the utility for a specific month on hourly basis.
 
 # Data:
 Hourly historical load data of the utility are provided (Load_History.csv). The historical data file contains the data from the 1st hour of 01-01-2008 to the 24th hour of 30-11-2011.
@@ -17,5 +17,5 @@ For more insight refer report and the code.
 1. The prediction can be improved by increasing the layers/ improving the architecture used. 
 2. Since many features are used for training, PCA can be applied to select the important features (features with maximum variance). So that the training becomes fast and most accurate.
 
-# Please reach out @ if you have new idea/ suggestion
+# Please reach out @ if you have new idea/ suggestion:
 anikatwilsonia@gmail.com
